@@ -3,3 +3,10 @@ node_modules/
 .env
 __pycache__/
 .DS_Store
+.venv/
+.env.*
+!.env.example
+dist/
+*.log
+uploads/
+chroma_db/
